@@ -14,7 +14,7 @@ git clone <repo-url>
 ```
 
 ```bash
-pip install -r req.txt
+pip install -r requirements.txt
 ```
 
 ## Running The App
